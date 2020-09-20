@@ -1,0 +1,207 @@
+Assignment No. 1
+
+1. What is Cloud?
+
+Servers that are accessed over the Internet, and the software and databases that run on those servers. Cloud servers are located in data centers all over the world. By using cloud computing, users and companies don't have to manage physical servers themselves or run software applications on their own machines. The cloud enables users to access the same files and applications from almost any device, because the computing and storage takes place on servers in a data center, instead of locally on the user device. This is why a user can log into their Instagram account on a new phone after their old phone breaks and still find their old account in place, with all their photos, videos, and conversation history. It works the same way with cloud email providers like Gmail or Microsoft Office 365, and with cloud storage providers like Dropbox or Google Drive.
+
+2. Types of Cloud?
+There are 4 types of Cloud:
+
+Public Cloud
+
+Private Cloud
+
+Hybrid Cloud
+
+Community Cloud
+
+1. Public Cloud:- Public cloud is open to all to store and access information via the Internet using the pay-per-usage method. In public cloud, computing resources are managed and operated by the Cloud Service Provider (CSP).
+
+Example: Amazon elastic compute cloud (EC2), IBM SmartCloud Enterprise, Microsoft, Google App Engine, Windows Azure Services Platform.
+
+Advantages of Public Cloud:-
+
+There are the following advantages of Public Cloud -
+
+Public cloud is owned at a lower cost than the private and hybrid cloud.
+
+Public cloud is maintained by the cloud service provider, so do not need to worry about the maintenance.
+
+Public cloud is easier to integrate. Hence it offers a better flexibility approach to consumers.
+
+Public cloud is location independent because its services are delivered through the internet.
+
+Public cloud is highly scalable as per the requirement of computing resources.
+
+It is accessible by the general public, so there is no limit to the number of users.
+
+Disadvantages of Public Cloud
+
+Public Cloud is less secure because resources are shared publicly.
+
+Performance depends upon the high-speed internet network link to the cloud provider.
+
+The Client has no control of data.
+
+2. Private Cloud
+
+Private cloud is also known as an internal cloud or corporate cloud. It is used by organizations to build and manage their own data centers internally or by the third party. It can be deployed using Open source tools such as Open stack and Eucalyptus. Based on the location and management, National Institute of Standards and Technology (NIST) divide private cloud into the following two parts-
+
+On-premise private cloud
+
+Outsourced private cloud
+
+Advantages of Private Cloud
+
+There are the following advantages of the Private Cloud -
+
+Private cloud provides a high level of security and privacy to the users.
+
+Private cloud offers better performance with improved speed and space capacity.
+
+It allows the IT team to quickly allocate and deliver on-demand IT resources.
+
+The organization has full control over the cloud because it is managed by the organization itself. So, there is no need for the organization to depends on anybody.
+
+It is suitable for organizations that require a separate cloud for their personal use and data security is the first priority.
+
+Disadvantages of Private Cloud
+
+Skilled people are required to manage and operate cloud services.
+
+Private cloud is accessible within the organization, so the area of operations is limited.
+
+Private cloud is not suitable for organizations that have a high user base, and organizations that do not have the prebuilt infrastructure, sufficient manpower to maintain and manage the cloud.
+
+3. Hybrid Cloud
+
+Hybrid Cloud is a combination of the public cloud and the private cloud. we can say:
+
+Hybrid Cloud = Public Cloud + Private Cloud
+
+Hybrid cloud is partially secure because the services which are running on the public cloud can be accessed by anyone, while the services which are running on a private cloud can be accessed only by the organization's users.
+
+Example : Google Application Suite (Gmail, Google Apps, and Google Drive), Office 365 (MS Office on the Web and One Drive), Amazon Web Services.
+
+Advantages of Hybrid Cloud
+
+There are the following advantages of Hybrid Cloud -
+
+Hybrid cloud is suitable for organizations that require more security than the public cloud.
+
+Hybrid cloud helps you to deliver new products and services more quickly.
+
+Hybrid cloud provides an excellent way to reduce the risk.
+
+Hybrid cloud offers flexible resources because of the public cloud and secure resources because of the private cloud.
+
+Disadvantages of Hybrid Cloud
+
+In Hybrid Cloud, security feature is not as good as the private cloud.
+
+Managing a hybrid cloud is complex because it is difficult to manage more than one type of deployment model.
+
+In the hybrid cloud, the reliability of the services depends on cloud service providers.
+
+4. Community Cloud
+
+Community cloud allows systems and services to be accessible by a group of several organizations to share the information between the organization and a specific community. It is owned, managed, and operated by one or more organizations in the community, a third party, or a combination of them.
+
+Example: Health Care community cloud
+
+Advantages of Community Cloud
+
+There are the following advantages of Community Cloud -
+
+Community cloud is cost-effective because the whole cloud is being shared by several organizations or communities.
+
+Community cloud is suitable for organizations that want to have a collaborative cloud with more security features than the public cloud.
+
+It provides better security than the public cloud.
+
+It provides collaborative and distributive environment.
+
+Community cloud allows us to share cloud resources, infrastructure, and other capabilities among various organizations.
+
+Disadvantages of Community Cloud
+
+Community cloud is not a good choice for every organization.
+
+Security features are not as good as the private cloud.
+
+It is not suitable if there is no collaboration.
+
+The fixed amount of data storage and bandwidth is shared among all community members.
+
+3. Advantage & Disadvantage of Cloud computing.
+Advantages of Cloud Computing:-
+
+1) Back-up and restore data
+
+Once the data is stored in the cloud, it is easier to get back-up and restore that data using the cloud.
+
+2) Improved collaboration
+
+Cloud applications improve collaboration by allowing groups of people to quickly and easily share information in the cloud via shared storage.
+
+3) Excellent accessibility
+
+Cloud allows us to quickly and easily access store information anywhere, anytime in the whole world, using an internet connection. An internet cloud infrastructure increases organization productivity and efficiency by ensuring that our data is always accessible.
+
+4) Low maintenance cost
+
+Cloud computing reduces both hardware and software maintenance costs for organizations.
+
+5) Mobility
+
+Cloud computing allows us to easily access all cloud data via mobile.
+
+6) Services in the pay-per-use model
+
+Cloud computing offers Application Programming Interfaces (APIs) to the users for access services on the cloud and pays the charges as per the usage of service.
+
+7) Unlimited storage capacity
+
+Cloud offers us a huge amount of storing capacity for storing our important data such as documents, images, audio, video, etc. in one place.
+
+8) Data security
+
+Data security is one of the biggest advantages of cloud computing. Cloud offers many advanced features related to security and ensures that data is securely stored and handled.
+
+Disadvantages of Cloud Computing
+
+A list of the disadvantage of cloud computing is given below -
+
+1) Internet Connectivity
+
+As you know, in cloud computing, every data (image, audio, video, etc.) is stored on the cloud, and we access these data through the cloud by using the internet connection. If you do not have good internet connectivity, you cannot access these data. However, we have no any other way to access data from the cloud.
+
+2) Vendor lock-in
+
+Vendor lock-in is the biggest disadvantage of cloud computing. Organizations may face problems when transferring their services from one vendor to another. As different vendors provide different platforms, that can cause difficulty moving from one cloud to another.
+
+3) Limited Control
+
+As we know, cloud infrastructure is completely owned, managed, and monitored by the service provider, so the cloud users have less control over the function and execution of services within a cloud infrastructure.
+
+4) Security
+
+Although cloud service providers implement the best security standards to store important information. But, before adopting cloud technology, you should be aware that you will be sending all your organization's sensitive information to a third party, i.e., a cloud computing service provider. While sending the data on the cloud, there may be a chance that your organization's information is hacked by Hackers.
+
+4. What is EC2?
+EC2 stands for Amazon Elastic Compute Cloud.
+
+Amazon EC2 is a web service that provides resizable compute capacity in the cloud.
+
+Amazon EC2 reduces the time required to obtain and boot new user instances to minutes rather than in older days, if you need a server then you had to put a purchase order, and cabling is done to get a new server which is a very time-consuming process. Now, Amazon has provided an EC2 which is a virtual machine in the cloud that completely changes the industry.
+
+You can scale the compute capacity up and down as per the computing requirement changes.
+
+Amazon EC2 changes the economics of computing by allowing you to pay only for the resources that you actually use. Rather than you previously buy physical servers, you would look for a server that has more CPU capacity, RAM capacity and you buy a server over 5 year term, so you have to plan for 5 years in advance. People spend a lot of capital in such investments. EC2 allows you to pay for the capacity that you actually use.
+
+Amazon EC2 provides the developers with the tools to build resilient applications that isolate themselves from some common scenarios.
+
+5. Difference btw Server & cloud?
+Expanding storage in the cloud environment does not incur any downtime. Dedicated servers also take more time and resources to change processors without maintenance downtime. Websites hosted on a single server that requires additional processing capabilities require a total migration or networking with another server.
+
+Normal servers, in fact, refers to the regular physical technology you're installing somewhere in the room, while cloud server is perceived as an online system able to store a large amount of data, deliver software services, balance loading time, automate business process and operations, and allow enough customization for the user to make the desired changes. Super heroes, almost. With a normal server in place, such possibilities won't be present.
